@@ -1,0 +1,2 @@
+# vocabulary_extractor_generator
+VocabularyExtractor 是一个用于从课程PPT图片中提取专业词汇的工具。它通过月之暗面Kimi的API识别图片中的文本，并从中筛选出符合特定条件的生物或化学领域的英语专业名词。这些单词会被整理成单词表，方便用户学习和复习。 
