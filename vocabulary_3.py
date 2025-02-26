@@ -7,7 +7,7 @@ import re
 import csv
 
 client = OpenAI(
-    api_key="sk-mdOUhbhns3A8LgdlmFX6DNHeUGW0zSBJHsQooum7SQH5iTRE",
+    api_key=" ---- ",
     base_url="https://api.moonshot.cn/v1",
 )
 
